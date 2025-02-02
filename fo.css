@@ -1,0 +1,19 @@
+body{
+    background-color: yellow;
+}
+
+h1,p, h2 {
+    text-align: center;
+}
+
+.item-1 {
+    text-align: left;
+}
+
+.lp {
+    text-align: center;
+}
+
+.kok {
+    display: flex;
+}
